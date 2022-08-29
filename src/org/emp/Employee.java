@@ -2,7 +2,8 @@ package org.emp;
 
 public class Employee {
 	public void greensOmr(String Name, long No) {
-		System.out.println(Name+"\n"+No);		
+		System.out.println(Name+"\n"+No);
+		System.out.println("Manojkumar");
 	}
 	public void greensOmr(String name, String name1) {
 		System.out.println(name+"\n"+name1);
