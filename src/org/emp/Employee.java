@@ -10,6 +10,7 @@ public class Employee {
 	}
 	private void greensOmr(long No , String Name) {
 		System.out.println(No+"\n"+Name);
+		System.out.println("Kumar");
 
 	}
 	public static void main(String[] args) {
